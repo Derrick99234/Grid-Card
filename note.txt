@@ -1,0 +1,3 @@
+grid-template-colum -- align items vertically
+
+grid-auto-rows: minmax(200px, auto);
